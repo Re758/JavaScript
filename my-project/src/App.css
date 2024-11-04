@@ -1,0 +1,189 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 25px;
+    background-color:rgb(154, 236, 14);
+    color:black;
+  }
+  
+  header {
+    background: rgb(154, 236, 14);
+    color: white;
+  
+    text-align: center;
+    border-radius: 20%;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+  }
+  h1{
+    text-decoration:line-through;
+    text-align: center;
+  
+  }
+  
+  nav a {
+    margin: 15px;
+    color: black;
+    text-decoration: underline;
+    padding: 0.5%;
+    font-size: x-large;
+    text-decoration:none;
+  }
+  nav :hover{
+    
+      background-color:rgb(110, 176, 4);
+      border-radius: 8px;
+      box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+      color: white;
+      width: 5px;
+      
+    
+  }
+  .status-message {
+    color: red; /* Error message text color */
+    margin-bottom: 10px; /* Space below the error message */
+  }
+  .status-message {
+      color: red; /* Changes text color to red */
+      font-weight: bold; /* Make it bold for better visibility */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    background-color: green ;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+    
+    
+  }
+  
+  th, td {
+    border: 5px solid rgb(154, 236, 14);
+    text-align: center;
+    padding: 10px;
+    border-radius: 5%;
+  }
+  
+  th {
+    background-color: green;
+    color: black;
+  }
+  
+  form {
+    margin-top: 30px;
+    background: black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+    display:inline-block;
+  }
+  
+  #loginSection, #registerSection, #dashboard, #manageProducts, #userManagement, #userForm, #productDetails {
+    display: none;
+  }
+  h2{
+    text-decoration:none;
+    text-align: center;
+  }
+  .nav-button :hover{
+    background-color: aqua;
+  
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 25px;
+    background-color:rgb(154, 236, 14);
+    color:black;
+  }
+  
+  header {
+    background: rgb(154, 236, 14);
+    color: white;
+  
+    text-align: center;
+    border-radius: 20%;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+  }
+  h1{
+    text-decoration:line-through;
+    text-align: center;
+  
+  }
+  
+  nav a {
+    margin: 15px;
+    color: black;
+    text-decoration: underline;
+    padding: 0.5%;
+    font-size: x-large;
+    text-decoration:none;
+  }
+  nav :hover{
+    
+      background-color:rgb(110, 176, 4);
+      border-radius: 8px;
+      box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+      color: white;
+      width: 5px;
+      
+    
+  }
+  .status-message {
+    color: red; /* Error message text color */
+    margin-bottom: 10px; /* Space below the error message */
+  }
+  .status-message {
+      color: red; /* Changes text color to red */
+      font-weight: bold; /* Make it bold for better visibility */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    background-color: green ;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+    
+    
+  }
+  
+  th, td {
+    border: 5px solid rgb(154, 236, 14);
+    text-align: center;
+    padding: 10px;
+    border-radius: 5%;
+  }
+  
+  th {
+    background-color: green;
+    color: black;
+  }
+  
+  form {
+    margin-top: 30px;
+    background: black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: 6px 6px 15px rgba(0, 0, 1, 2);
+    display:inline-block;
+  }
+  
+  #loginSection, #registerSection, #dashboard, #manageProducts, #userManagement, #userForm, #productDetails {
+    display: none;
+  }
+  h2{
+    text-decoration:none;
+    text-align: center;
+  }
+  .nav-button :hover{
+    background-color: aqua;
+  
+  }
+  
+  
+    
